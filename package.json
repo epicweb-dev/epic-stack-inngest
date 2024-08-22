@@ -1,8 +1,6 @@
 {
-  "name": "epic-stack-inngest",
+  "name": "epic-stack-inngest-419c",
   "private": true,
-  "license": "MIT",
-  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
   "sideEffects": false,
   "type": "module",
   "imports": {
